@@ -1,0 +1,10 @@
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+ & Dihapax & YulesCharacteristicK & SimpsonsIndex & BrunetsMeasureW & ShannonEntropy & FleschReadingEase & FleschKincaidGradeLevel & DaleChallReadability & GunningFog \\
+Cluster &  &  &  &  &  &  &  &  &  \\
+\midrule
+0 & 18.300000 & 186.000000 & 1.000000 & 111.500000 & 6.500000 & 85.400000 & 4.600000 & 7.300000 & 6.800000 \\
+1 & 28.000000 & 158.200000 & 1.000000 & 180.600000 & 7.000000 & 69.500000 & 9.300000 & 8.100000 & 11.500000 \\
+2 & 0.400000 & 5272.000000 & 0.500000 & 15.600000 & 1.600000 & 100.900000 & 0.400000 & 13.900000 & 2.700000 \\
+\bottomrule
+\end{tabular}

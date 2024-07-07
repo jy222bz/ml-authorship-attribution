@@ -1,0 +1,114 @@
+\begin{tabular}{lrll}
+\toprule
+ & Cluster & Book & Author \\
+\midrule
+0 & 0 & A Christmas Carol In Prose & Charles Dickens \\
+3 & 0 & A Little Country Girl & Susan Coolidge \\
+11 & 0 & Argonaut Stories & Jack London \\
+17 & 0 & Defense Mech & Ray Bradbury \\
+19 & 0 & Emily Of New Moon & L. M. Montgomery \\
+34 & 0 & Life And Death Of Harriett Frean & May Sinclair \\
+46 & 0 & Pillar Of Fire & Ray Bradbury \\
+47 & 0 & Plague Ship & Andre Norton \\
+48 & 0 & Poirot Investigates & Agatha Christie \\
+49 & 0 & Pride And Prejudice & Jane Austen \\
+52 & 0 & Rose In Bloom & Louisa May Alcott \\
+61 & 0 & The Battle Ground & Ellen Glasgow \\
+64 & 0 & The Creatures That Time Forgot & Ray Bradbury \\
+71 & 0 & The Iron Heel & Jack London \\
+74 & 0 & The Man Who Laughs- A Romance Of English History & Victor Hugo \\
+77 & 0 & The Mysterious Affair At Styles & Agatha Christie \\
+78 & 0 & The Mystery Of The Blue Train & Agatha Christie \\
+81 & 0 & The Prince And The Pauper & Mark Twain \\
+85 & 0 & The Secret Adversary & Agatha Christie \\
+88 & 0 & The Shape Of Things & Ray Bradbury \\
+91 & 0 & The Tree Of Heaven & May Sinclair \\
+94 & 0 & Toilers Of The Sea & Victor Hugo \\
+95 & 0 & Uncanny Stories & May Sinclair \\
+101 & 0 & White Fang & Jack London \\
+107 & 0 & Youth & Isaac Asimov \\
+1 & 1 & A Connecticut Yankeein King Arthur's Court & Mark Twain \\
+2 & 1 & A Journal Of Impressions In Belgium & May Sinclair \\
+4 & 1 & A Round Dozen & Susan Coolidge \\
+5 & 1 & Adam Bede & George Eliot \\
+6 & 1 & Adventures Of Huckleberry Finn & Mark Twain \\
+7 & 1 & All Cats Are Gray & Andre Norton \\
+8 & 1 & Anne Of Avonlea & L. M. Montgomery \\
+9 & 1 & Anne Of Green Gables & L. M. Montgomery \\
+10 & 1 & Anne Of The Island & L. M. Montgomery \\
+12 & 1 & Bleak House & Charles Dickens \\
+13 & 1 & Clover & Susan Coolidge \\
+14 & 1 & Curious- If True & Elizabeth Gaskell \\
+15 & 1 & Daniel Deronda & George Eliot \\
+16 & 1 & David Copperfield & Charles Dickens \\
+18 & 1 & Eight Cousins & Louisa May Alcott \\
+20 & 1 & Emma & Jane Austen \\
+21 & 1 & Ethan Frome & Edith Wharton \\
+22 & 1 & Felix Holt- The Radical & George Eliot \\
+23 & 1 & Flower Fables & Louisa May Alcott \\
+24 & 1 & Futuria Fantasia- Fall & Ray Bradbury \\
+25 & 1 & Futuria Fantasia- Spring & Ray Bradbury \\
+26 & 1 & Great Expectations & Charles Dickens \\
+27 & 1 & Halfa Life- Time Ago & Elizabeth Gaskell \\
+28 & 1 & Hard Times & Charles Dickens \\
+29 & 1 & Heart Of Darkness & Joseph Conrad \\
+30 & 1 & In The High Valley & Susan Coolidge \\
+31 & 1 & Jack And Jill & Louisa May Alcott \\
+32 & 1 & Key Out Of Time & Andre Norton \\
+33 & 1 & Let's Get Together & Isaac Asimov \\
+35 & 1 & Life On The Mississippi & Mark Twain \\
+36 & 1 & Little Women & Louisa May Alcott \\
+37 & 1 & Lord Jim & Joseph Conrad \\
+38 & 1 & Mansfield Park & Jane Austen \\
+39 & 1 & Martin Eden & Jack London \\
+40 & 1 & Mary Barton & Elizabeth Gaskell \\
+41 & 1 & Ninety- Three & Victor Hugo \\
+42 & 1 & Northanger Abbey & Jane Austen \\
+43 & 1 & Notre- Damede Paris & Victor Hugo \\
+44 & 1 & Oliver Twist & Charles Dickens \\
+45 & 1 & Persuasion & Jane Austen \\
+50 & 1 & Rainbow Valley & L. M. Montgomery \\
+51 & 1 & Rilla Of Ingleside & L. M. Montgomery \\
+53 & 1 & Roughing It & Mark Twain \\
+54 & 1 & Ruth & Elizabeth Gaskell \\
+55 & 1 & Sense And Sensibility & Jane Austen \\
+56 & 1 & Silas Marner & George Eliot \\
+57 & 1 & Star Born & Andre Norton \\
+58 & 1 & Summer & Edith Wharton \\
+59 & 1 & Tales Of Menand Ghosts & Edith Wharton \\
+60 & 1 & The Ancient Law & Ellen Glasgow \\
+62 & 1 & The Builders & Ellen Glasgow \\
+63 & 1 & The Combined Maze & May Sinclair \\
+65 & 1 & The Custom Of The Country & Edith Wharton \\
+66 & 1 & The Genetic Effects Of Radiation & Isaac Asimov \\
+67 & 1 & The Grey Woman And Other Tales & Elizabeth Gaskell \\
+68 & 1 & The History Of A Crime & Victor Hugo \\
+69 & 1 & The House Of Mirth & Edith Wharton \\
+70 & 1 & The Innocents Abroad & Mark Twain \\
+72 & 1 & The Lifted Veil & George Eliot \\
+73 & 1 & The Man In The Brown Suit & Agatha Christie \\
+75 & 1 & The Mill On The Floss & George Eliot \\
+76 & 1 & The Murder On The Links & Agatha Christie \\
+79 & 1 & The People Of The Abyss & Jack London \\
+80 & 1 & The People Of The Crater & Andre Norton \\
+82 & 1 & The Reef & Edith Wharton \\
+83 & 1 & The Romance Of A Plain Man & Ellen Glasgow \\
+84 & 1 & The Sea- Wolf & Jack London \\
+86 & 1 & The Secret Agent- A Simple Tale & Joseph Conrad \\
+87 & 1 & The Secret Sharer & Joseph Conrad \\
+89 & 1 & The Three Sisters & May Sinclair \\
+90 & 1 & The Time Traders & Andre Norton \\
+92 & 1 & The Voice Of The People & Ellen Glasgow \\
+93 & 1 & The Women Who Make Our Novels & Ellen Glasgow \\
+96 & 1 & Under The Lilacs & Louisa May Alcott \\
+97 & 1 & Under Western Eyes & Joseph Conrad \\
+98 & 1 & Victory- An Island Tale & Joseph Conrad \\
+99 & 1 & What Katy Did Next & Susan Coolidge \\
+100 & 1 & What Katy Didat School & Susan Coolidge \\
+102 & 1 & William Shakespeare & Victor Hugo \\
+103 & 1 & Wives And Daughters & Elizabeth Gaskell \\
+104 & 1 & Worlds Within Worlds- The Story Of Nuclear Energy- Vol1 & Isaac Asimov \\
+105 & 1 & Worlds Within Worlds- The Story Of Nuclear Energy- Vol2 & Isaac Asimov \\
+106 & 1 & Worlds Within Worlds- The Story Of Nuclear Energy- Vol3 & Isaac Asimov \\
+\bottomrule
+\end{tabular}
