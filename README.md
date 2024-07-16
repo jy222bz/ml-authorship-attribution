@@ -165,6 +165,11 @@ git clone https://github.com/jy222bz/ml-authorship-attribution.git
 | Worlds Within Worlds-The Story Of Nuclear Energy-Vol3       | Isaac Asimov       |
 | Youth                                                       | Isaac Asimov       |
 
+### Disclaimer
+
+The literature contained in these files has been retrieved from Project Gutenberg. All content specifically related to Project Gutenberg, such as disclaimers, licensing information, and other project-related content, has been removed to ensure the files contain only the actual contents of the books. The source of the books remains Project Gutenberg, and the literary content of the books has not been altered in any way. This process was done solely to facilitate the ease of processing and reading the books without unrelated content.
+
+For more information on Project Gutenberg and to access the original versions of these texts, please visit [Project Gutenberg's website](https://www.gutenberg.org).
 
 ## Author
 
