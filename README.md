@@ -178,7 +178,7 @@ To run the solution, follow these steps:
 
 1. Clone the repository and install the necessary environment requirements.
 2. Review the solution, current results, and plots to understand the computations, analysis, and learning process of authorship attribution and stylistic analysis based on stylometric methods.
-3.To rerun the solution using the same or different configurations, empty all directories except the `Literature` directory and the `books.json` file in the `Datasets` directory. These must remain intact unless you wish to use different books and configurations, in which case you should update the configurations accordingly.
+3. To rerun the solution using the same or different configurations, empty all directories except the `Literature` directory and the `books.json` file in the `Datasets` directory. These must remain intact unless you wish to use different books and configurations, in which case you should update the configurations accordingly.
 4. Create the necessary folders required under the root directory for the solution, such as the `Model` directory, which will be used to extract the trained model.
 5. Run the notebooks sequentially in the order they are named.
 
