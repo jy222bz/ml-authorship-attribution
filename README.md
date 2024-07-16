@@ -1,4 +1,5 @@
 
+
 #  Stylometry & Machine Learning: Authorship Attribution
 
 
@@ -167,9 +168,18 @@ git clone https://github.com/jy222bz/ml-authorship-attribution.git
 
 ### Disclaimer
 
-The literature contained in these files has been retrieved from Project Gutenberg. All content specifically related to Project Gutenberg, such as disclaimers, licensing information, and other project-related content, has been removed to ensure the files contain only the actual contents of the books. The source of the books remains Project Gutenberg, and the literary content of the books has not been altered in any way. This process was done solely to facilitate the ease of processing and reading the books without unrelated content.
+The literature contained in these files has been retrieved from Project Gutenberg. All content specifically related to Project Gutenberg, such as disclaimers, licensing information, and other project-related content, has been removed to ensure the files contain only the actual contents of the books. The source of the books remains Project Gutenberg, and the literary content of the books has not been altered in any way. This process was done solely to facilitate the preparation of the book contents for processing and analysis without unrelated content.
 
 For more information on Project Gutenberg, please visit [Project Gutenberg's website](https://www.gutenberg.org).
+
+
+## Instructions for Running the Solution
+To run the solution, follow these steps:
+
+1. Clone the repository.
+2. Create the necessary folders required under the root directory for the solution, such as the `Model` directory, which will be used to extract the trained model.
+3. Run the notebooks sequentially in the order they are named.
+
 
 ## Author
 
