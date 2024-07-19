@@ -1,7 +1,4 @@
-
-
 #  Stylometry & Machine Learning: Authorship Attribution
-
 
 
 ## XGBoost and Stylometric Analysis Of Classic Literature
@@ -54,6 +51,7 @@ git clone https://github.com/jy222bz/ml-authorship-attribution.git
 ```
 
 ## Subject Literature 
+### The total number of literature pieces is 108, with each of the 18 unique authors - making it six books per author, resulting in 108 unique books.
 
 | Book Name                                                   | Author             |
 |-------------------------------------------------------------|--------------------|
